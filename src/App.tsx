@@ -21,7 +21,12 @@ function App() {
                         <div className="screen output">
                             <div className="header">
                                 <img className="icon" src="https://github.com/Yagasaki7K.png" alt="" />
-                                <nav><a href="https://ascii.yagasaki.dev">Intro</a><a href="https://twitter.com/yagasaki7k">Twitter!</a><a href="https://github.com/yagasaki7k">GitHub</a></nav>
+                                <nav>
+                                    <a href="https://ascii.yagasaki.dev">Intro</a>
+                                    <a href="https://twitter.com/yagasaki7k">Twitter!</a>
+                                    <a href="https://github.com/yagasaki7k">GitHub</a>
+                                    <a href="https://yagasaki.dev">Blog</a>
+                                </nav>
                             </div>
                             <h1>Welcome to <span onClick={() => isSwitch(!isAscii)}>ASCII</span> Yagasaki</h1>
                             <article>
