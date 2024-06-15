@@ -39,7 +39,7 @@ function App() {
                                     <li>
                                         Follow me on Twitter at <a href="https://twitter.com/yagasaki7k" target="_blank" rel="noreferrer">@yagasaki7k</a>{" "}
                                         and Github at <a href="https://github.com/yagasaki7k" target="_blank" rel="noreferrer">yagasaki7k</a>.</li>
-                                    <li>Fork this repo: <a href="https://github.com/yagasaki7k/website-ascii.dev">yagasaki7k/website-ascii.dev</a> and clone him</li>
+                                    <li>Fork and star this repo: <a href="https://github.com/yagasaki7k/website-ascii.dev">yagasaki7k/website-ascii.dev</a> and clone him</li>
                                     <li>Change the things you want to change.</li>
                                     <li>Hosted it on Vercel, for example.</li>
                                 </ul>
