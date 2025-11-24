@@ -22,7 +22,7 @@ function App() {
                             <div className="header">
                                 <img className="icon" src="https://github.com/Yagasaki7K.png" alt="" />
                                 <nav>
-                                    <a href="https://ascii.yagasaki.dev">Intro</a>
+                                    <a href="/">Intro</a>
                                     <a href="https://twitter.com/yagasaki7k">Twitter!</a>
                                     <a href="https://github.com/yagasaki7k">GitHub</a>
                                     <a href="https://yagasaki.dev">Blog</a>
@@ -54,7 +54,7 @@ function App() {
                                 <h2 id="how-do-i-scan-for-malware">How can see more projects like this?</h2>
                                 <ul>
                                     <li>You can follow some steps like a follow me, if you don't do that yet.</li>
-                                    <li>Read my blog articles on <a href="https://yagasaki.dev" target="_blank" rel="noreferrer">yagasaki.dev</a></li>
+                                    <li>Read my blog articles on <a href="https://yagasaki.vercel.app" target="_blank" rel="noreferrer">yagasaki.dev</a></li>
                                 </ul>
 
                                 <p>That's all. Thank you.</p>
